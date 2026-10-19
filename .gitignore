@@ -1,0 +1,24 @@
+# macOS
+.DS_Store
+.AppleDouble
+
+# Arduino build artifacts
+*.elf
+*.hex
+*.bin
+*.map
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment files and secrets
+.env
+.env.*
+!.env.example
+secrets.h
