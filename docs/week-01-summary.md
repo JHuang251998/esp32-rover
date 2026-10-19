@@ -2,7 +2,7 @@
 
 **Topic:** Arduino and ESP32 Fundamentals
 **Period:** October 2026
-**Status:** Coding and physical tests complete; GitHub publication pending.
+**Status:** Completed October 18, 2026; initial GitHub publication confirmed by local Git tracking status.
 
 ## Completed
 
@@ -45,7 +45,8 @@
 
 - **Local project:** `esp32-rover/`, with code in `firmware/` and hardware/wiring notes in `docs/`.
 - **Physical verification:** all four final ESP32 button/LED tests passed.
-- **GitHub URL:** _Add after creating the remote repository and pushing the initial commit._
+- **GitHub URL:** https://github.com/JHuang251998/esp32-rover
+- **Initial commit:** `7bfffb1` (`main`, synchronized with `origin/main`).
 - **Demo video or photos:** _Optional; not recorded in this report._
 
 ## Remaining questions
@@ -73,4 +74,4 @@ Rate these from 1 (strongly disagree) to 5 (strongly agree) after reflecting on 
 - Read at least one sensor and record repeatable readings.
 - Compare commanded behavior with physical observations and document any discrepancies.
 
-**Week 1 completion criterion:** both boards ran uploaded firmware; physical input and output worked; wiring and debugging notes are documented. Finish reviewing documentation and publishing the GitHub repository to close the portfolio workflow.
+**Week 1 completion criterion:** both boards ran uploaded firmware; physical input and output worked; wiring and debugging notes are documented. The documented portfolio workflow is complete; the repository has been committed and pushed to GitHub.
